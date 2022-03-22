@@ -3,7 +3,7 @@
 
 using namespace std;
 
-class Solution {
+class Solution { 
 public:
     int climbStairs(int n) {
         double phi = (1 + sqrt(5)) / 2; 
